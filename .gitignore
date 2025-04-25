@@ -23,6 +23,3 @@ logs/
 *.njsproj
 *.sln
 *.sw?
-
-# Static assets (external content)
-static/
