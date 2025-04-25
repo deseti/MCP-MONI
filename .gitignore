@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Static assets (external content)
+static/
